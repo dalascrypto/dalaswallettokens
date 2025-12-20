@@ -4,6 +4,14 @@
     "active": true
   },
   "paid_list": [
-    { "mint": "HuMToCczxDzYyo558f8SZfjWAgyLJcMw4TMouRogT1wA", "paidAt": 1700000000000 }
+    {
+      "mint": "B4z9ThjJZpL2g87yPvKvqMGNFpH4AB4ceGraPcE8FdLe",
+      "paidAt": 1766267029751,
+      "tx": "2VSxmMNHBhTzJ988i1vqDNG9T38pSobitkvpSrkGWUxkLkfU4Xw3bTzBT9ctfufsFyxGhT7gpDU6pxX7ie8RFHNz"
+    },
+    {
+      "mint": "HuMToCczxDzYyo558f8SZfjWAgyLJcMw4TMouRogT1wA",
+      "paidAt": 1700000000000
+    }
   ]
 }
