@@ -5,6 +5,11 @@
   },
   "paid_list": [
     {
+      "mint": "47H8Uv4bTu3yKJh7ypz4sx9iMvopCKCakPXWXWrkrvpY",
+      "paidAt": 1766302854805,
+      "tx": "5mpYEknARM2zFgGcZBLK5uRiUp7QT8m9ZR6vB6S7TfFEjjAotX28kL1mEdkP3W6ibDPczVDMRoE4oBaVByEmXgP1"
+    },
+    {
       "mint": "6E2WiAxv2oye5APFZcKuA2pJqj9xrUzAaKnfoaN7WvrQ",
       "paidAt": 1766268192191,
       "tx": "2wb4uHbG1bWXkY6BF3Yr58jE2rKPztbJ7fwL9vwUce5yYC94iLADEa98tYiA5571ZFEcm1MXmeYW7wbC2AcYpUdt"
